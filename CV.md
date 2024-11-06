@@ -20,8 +20,8 @@ Russian - native, English - B2
 
 ## My latest work
 
-- ** Star Wars wiki ** : [srarwars - netlify](https://amensgood-ssr-app-router-api.netlify.app/)
-- ** staff shop ** : [srarwars - netlify](https://goodomen-online-shop.netlify.app/)
+- **Star Wars wiki** : [srarwars - netlify](https://amensgood-ssr-app-router-api.netlify.app/)
+- **Staff shop** : [srarwars - netlify](https://goodomen-online-shop.netlify.app/)
 
 ## My Skills
 
